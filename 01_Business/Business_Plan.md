@@ -62,16 +62,28 @@ Scale to all-India after delivery economics and packaging safety are proven.
 
 ## 5. Sales model
 
+**Confirmed decision:** D2C website only.
+
+Rationale from research:
+- Quick-commerce (Blinkit Hyderabad) already has 10+ cold-pressed groundnut oil products at 8-min delivery — 2B cannot compete on speed and loses its traceability story on those platforms
+- Subscriptions require proven repeat purchase data — get that from the pilot first
+- Offline stores require distributor relationships, minimum stock, and margin sharing — too early
+
+**What D2C gives 2B:**
+- Full control of product story and QR traceability page
+- Customer contact details and reorder data
+- No platform commissions
+- Ability to test price, copy, and packaging without platform constraints
+
 **Stage 1–2 (now):** D2C website only
 - Guest checkout
 - Online payment + COD
 - Hyderabad-first delivery, then nationwide
 - No standard returns — Contact Us for damage or leakage
 
-**Stage 3+ (only after pilot proves demand):**
-- Website subscriptions
-- Quick-commerce apps (Blinkit, Zepto, Swiggy Instamart)
-- Possibly retail or B2B
+**Stage 3+ (revisit only after pilot proves demand):**
+- Website subscriptions — if repeat purchase data supports it
+- Quick-commerce, offline, B2B — evaluate with evidence, not assumption
 
 ---
 

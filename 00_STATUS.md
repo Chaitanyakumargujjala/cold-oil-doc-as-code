@@ -23,7 +23,7 @@ Stage 1 of 4. Doing market research and home testing before spending significant
 | 1 | Brand name: **2B** | Short for "Two Brothers" — the full name was already taken |
 | 2 | Brand promise: **"Know where your oil comes from."** | Working line — revisit after research |
 | 3 | Initial product: **Groundnut oil, 1 litre** | Final for Stage 1 |
-| 4 | Sales channel: **2B website only** | Subscriptions and quick-commerce deferred |
+| 4 | Sales channel: **2B website only — D2C** | Confirmed. Subscriptions, quick-commerce, and offline deferred indefinitely until pilot proves demand |
 | 5 | Checkout: **Guest only** | No login required |
 | 6 | Payment: **Online + COD** | Provider TBD — open decision T1 |
 | 7 | Frontend: **React + TypeScript, mobile-first** | Final |
