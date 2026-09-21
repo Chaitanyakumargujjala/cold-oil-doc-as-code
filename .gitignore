@@ -1,0 +1,26 @@
+# Scraper output files — raw data, not part of docs
+02_Research/scraped_data.csv
+02_Research/scraper_log.txt
+02_Research/review_data.txt
+02_Research/review_text.txt
+02_Research/review_text_clean.txt
+02_Research/review_clean.txt
+02_Research/results_summary.txt
+02_Research/qc_hyderabad_data.txt
+02_Research/qc_clean.txt
+02_Research/review_text_log.txt
+02_Research/review_log.txt
+02_Research/qc_log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
